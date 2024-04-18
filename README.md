@@ -11,8 +11,8 @@ I am a software developer with 3 years of experience working in the Java languag
 
 ## Contact
 
-- **Email:** gomespl@outlook.com
-- **LinkedIn:** https://www.linkedin.com/in/pedrogomesdev/
+  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrogomesdev/)    
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gomespl@outlook.com)
 
 <!--
 **Pedro-LSG/Pedro-LSG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
